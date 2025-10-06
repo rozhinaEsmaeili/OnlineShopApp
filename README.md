@@ -46,7 +46,7 @@ It’s a **demo project** and not intended for production use.
 
 **Rozhina Esmaeili**  
 📧 [rozhinaesmaeili83@gmai.com]  
-💼 [LinkedIn](https://linkedin.com/in/rozhinaEsmaeili)  
+💼 [LinkedIn](www.linkedin.com/in/rozhina-esmaeili-028b9b384)  
 📂 [GitHub](https://github.com/rozhinaEsmaeili)
 
 ---
